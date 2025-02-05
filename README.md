@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuncer&label=Profile%20views&color=0e75b6&style=flat" alt="batuncer" /> </p>
 - 🌱 I’m currently working on RUYA project as a software engineer**
-
+- Official website = https://ruya.co/
 - 👨‍💻You can check my portfolio website and CV [https://portfolio-main-ten-lime.vercel.app/](https://portfolio-main-ten-lime.vercel.app/)
 
 - 📫 How to reach me **tuncerbaki@gmail.com**
