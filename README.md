@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=batuncer&label=Profile%20views&color=0e75b6&style=flat" alt="batuncer" /> </p>
 - 🌱 I’m currently working on RUYA project as a software engineer
 - Official website = https://ruya.co
-- 👨‍💻You can check my portfolio website and CV [https://portfolio-main-ten-lime.vercel.app/](https://portfolio-main-ten-lime.vercel.app/)
+- 👨‍💻You can check my portfolio website and CV [https://portfolio-main-ten-lime.vercel.app/]
 
 - 📫 How to reach me **tuncerbaki@gmail.com**
 <p align="left">
